@@ -1,0 +1,14 @@
+[Unit]
+Description=General Purpuse SLUG
+After=syslog.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/marker_/slugknob
+ExecStart=/home/marker_/slugknob/hotslug
+TimeoutStopSec=5
+StandardOutput=null
+StandardError=journal
+
+[Install]
+WantedBy = multi-user.target

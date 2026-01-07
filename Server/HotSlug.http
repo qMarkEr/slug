@@ -1,0 +1,6 @@
+@HotSlug_HostAddress = http://localhost:7070
+
+GET {{HotSlug_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
