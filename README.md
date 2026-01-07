@@ -3,16 +3,11 @@ and to collect the dust :) \
 <img
     src="Images/img4.jpg" 
     width=40%
-    title="My Image"
-    alt="My Image"
 />
 <img
     src="Images/img2.jpg" 
     width=40%
-    title="My Image"
-    alt="My Image"
 />
-\
 
 # General Info
 
@@ -221,24 +216,18 @@ sudo ./link_service.sh
 <img
     src="Images/main-case.jpg" 
     width=40%
-    title="My Image"
-    alt="My Image"
 />
 
 * rpi-and-screen-mount.stl \
 <img
     src="Images/rpi-and-screen-case.jpg" 
     width=40%
-    title="My Image"
-    alt="My Image"
 />
 
 * valve.stl \
 <img
     src="Images/valve.jpg" 
     width=40%
-    title="My Image"
-    alt="My Image"
 />
 
 # Yapping
