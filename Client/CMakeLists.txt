@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.25)
 project(hotslug C)
 
-set(CMAKE_RUNTIME_OUTPUT_DIRECTORY /home/marker_/slugknob/)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY /var/www/hotslug/)
 set(SOURCES
         src/slug.h
         src/main.c
