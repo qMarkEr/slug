@@ -4,8 +4,8 @@ After=syslog.target
 
 [Service]
 Type=simple
-WorkingDirectory=/home/marker_/slugknob
-ExecStart=/home/marker_/slugknob/hotslug
+WorkingDirectory=/var/www/hotslug/
+ExecStart=/var/www/hotslug/hotslug
 TimeoutStopSec=5
 StandardOutput=null
 StandardError=journal
