@@ -1,11 +1,11 @@
 # The multifunctional device to interact with your pc
 and to collect the dust :) \
 <img
-    src="Images/img4.jpg" 
+    src="Images/img4.JPG" 
     width=40%
 />
 <img
-    src="Images/img2.jpg" 
+    src="Images/img2.JPG" 
     width=40%
 />
 
@@ -24,13 +24,13 @@ and to collect the dust :) \
 
 - The switch to turn on the PC and put it to the sleep mode\
 <img
-    src="Images/img3.jpg" 
+    src="Images/img3.JPG" 
     width=40%
 />
 
 - The valve to choose the mode of the device\
 <img
-    src="Images/img1.jpg" 
+    src="Images/img1.JPG" 
     width=40%
 />
 
